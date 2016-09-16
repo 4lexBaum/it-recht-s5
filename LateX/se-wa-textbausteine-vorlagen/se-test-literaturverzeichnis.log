@@ -1,0 +1,35 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.17)  14 SEP 2016 14:45
+entering extended mode
+**se-test-literaturverzeichnis.tex
+(se-test-literaturverzeichnis.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+
+! LaTeX Error: Cannot be used in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \nocite{VB:YTO}
+                   
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.9 \nocite{VB:YTO}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+ 
+Here is how much of TeX's memory you used:
+ 7 strings out of 493698
+ 327 string characters out of 3144003
+ 52149 words of memory out of 3000000
+ 3432 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 5i,0n,5p,137b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
